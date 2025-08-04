@@ -1,0 +1,11 @@
+product_id,customer_id,sale_id,quantity,price,sale_date,name,region,product_name,category,total_amount
+201,101,1,2,500,2023-01-01,Amit,North,Laptop,Electronics,1000
+202,102,2,1,1500,2023-01-02,Sneha,South,Phone,Electronics,1500
+203,103,3,5,200,2023-01-03,Rahul,East,Charger,Accessories,1000
+204,101,4,3,300,2023-01-04,Amit,North,Mouse,Accessories,900
+205,104,5,2,1000,2023-01-05,Priya,West,Tablet,Electronics,2000
+206,105,6,4,250,2023-01-06,John,South,Keyboard,Accessories,1000
+202,102,7,1,1500,2023-01-07,Sneha,South,Phone,Electronics,1500
+203,101,8,2,200,2023-01-08,Amit,North,Charger,Accessories,400
+204,106,9,3,300,2023-01-09,Sara,North,Mouse,Accessories,900
+201,107,10,2,500,2023-01-10,Ali,West,Laptop,Electronics,1000
