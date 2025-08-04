@@ -85,7 +85,7 @@ I’m actively looking for **junior or entry-level roles** in Data Engineering a
 
 🔗 [GitHub Project Repo](https://github.com/Suri6363498/retail-data-engineering-pipeline)
 🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/suraj.korishetti/viz/Sales_Dashboard_Suraj_png/OverviewByCategory?publish=yes)
-🔗 \[LinkedIn Profile (Add yours here)]
+🔗 \https://www.linkedin.com/in/suraj-korishetti-333a44258/
 
 ---
 
