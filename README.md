@@ -1,4 +1,4 @@
-# retail-data-engineering-pipeline
+# Retail-data-engineering-pipeline
 
 ---
 
