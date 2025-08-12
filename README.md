@@ -1,7 +1,5 @@
 # retail-data-engineering-pipeline
 
-Sure Suraj! Here's your project description in **simple, clear text** (no code formatting):
-
 ---
 
 ### 🛒 Retail Data Engineering Pipeline Project
